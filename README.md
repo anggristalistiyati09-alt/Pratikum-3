@@ -25,6 +25,7 @@ Menggunakan perulangan for yang bersarang (nested)
 
 4. print() akan mencetak baris baru setelah setiap baris selesai dicetak.
 <img width="778" height="335" alt="image" src="https://github.com/user-attachments/assets/ed345ec1-b192-4c74-8d3c-ffe7ec88221d" />
+
 # LATIHAN 2
 <img width="544" height="218" alt="image" src="https://github.com/user-attachments/assets/0d0c99ed-5a14-48e3-b8d9-40f554f42759" />
 
@@ -41,6 +42,7 @@ Menggunakan program berikut
 
 5. Program di atas akan menghasilkan output yang di inginkan
 <img width="714" height="267" alt="image" src="https://github.com/user-attachments/assets/d6209c21-f9d4-4e4e-b2ff-4a85f5e985d1" />
+
 # Latihan 1
 <img width="975" height="404" alt="image" src="https://github.com/user-attachments/assets/5479de72-b928-446e-998a-9f4b6aa150cc" />
 
@@ -52,6 +54,7 @@ Gunakan pernyataan if untuk memeriksa apakah bilangan1 lebih besar dari bilangan
 
 3. Simpan hasil perbandingan ini dalam variabel baru, misalnya terbesar.
 <img width="820" height="252" alt="image" src="https://github.com/user-attachments/assets/82cdeded-d291-46a4-a20d-25efd135a1bf" />
+
 # Latihan 2
 <img width="916" height="555" alt="image" src="https://github.com/user-attachments/assets/f9cdcf9a-7dbf-41f4-925e-e37e1425154c" />
 
